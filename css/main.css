@@ -1,10 +1,13 @@
+/* Поменяла цвет в body */
 html, body {
     margin: 0;
     box-sizing: border-box;
     background: #f4f6f8;
     font-family: Arial, Tahoma, sans-serif;
-    color: #44525e;
+    color: #0f61a8;
 }
+
+
 p {
     margin: 0;
 }
@@ -17,8 +20,9 @@ h3 {
     text-align: center;
     text-transform: uppercase;
 }
+/* Поменяла цвет в h3 span*/
 h3 span {
-    color: #ff5912;
+    color: #ff12eb;
 } 
 .section_description {
     text-align: center;
